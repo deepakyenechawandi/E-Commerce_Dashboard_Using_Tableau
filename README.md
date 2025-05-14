@@ -61,7 +61,6 @@ To monitor and evaluate the overall health of an e-commerce business through:
 - Monthly customer acquisition trends reveal seasonal shifts across global regions
 
 ---
----
 
 ## 🌐 Online Published Dashboard
 
@@ -76,15 +75,3 @@ View the live dashboard here:
 
 
 ---
-
-## 📬 Contact
-
-For questions or feedback:
-- GitHub: [your-username](https://github.com/your-username)
-- Email: your.email@example.com
-
----
-
-## 🪪 License
-
-This project is licensed under the [MIT License](LICENSE).
